@@ -1,1 +1,3 @@
-<img src="../assets/banner.png" width="1400px" />
+![banner]
+
+[banner]: https://github.com/skyebotofc/.github/raw/main/assets/banner.png
